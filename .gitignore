@@ -1,0 +1,4 @@
+data/*
+!data/.gitkeep
+reports/*.pdf
+__pycache__/
